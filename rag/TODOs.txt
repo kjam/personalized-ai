@@ -1,0 +1,9 @@
+some notes for me to test out later :)
+
+TODO: try out other rerankers!
+# Nano (~4MB), blazing fast model & competitive performance (ranking precision).
+#ranker = Ranker()
+
+#rerankrequest = RerankRequest(query=query, passages=passages)
+#results = ranker.rerank(rerankrequest)
+#print(results)
