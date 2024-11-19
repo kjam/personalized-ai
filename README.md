@@ -1,6 +1,6 @@
 ## Personalized AI / ML examples
 
-In this repository I'll be exploring several small proof-of-concepts for [personalized AI systems](https://blog.kjamistan.com/personalized-ai/).
+In this repository I'll be exploring several small proof-of-concepts for [personalized AI systems](https://blog.kjamistan.com/private-and-personalized-ai.html).
 
 
 ## Have an idea, improvement or comment?
