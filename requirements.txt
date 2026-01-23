@@ -1,0 +1,7 @@
+jupyter
+pandas
+torch
+openai
+huggingface_hub
+docling
+vllm
